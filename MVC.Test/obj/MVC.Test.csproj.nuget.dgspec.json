@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\MVC.Test.csproj": {}
+    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj": {}
   },
   "projects": {
-    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\MVC.Test.csproj": {
+    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\MVC.Test.csproj",
+        "projectUniqueName": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
         "projectName": "MVC.Test",
-        "projectPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\MVC.Test.csproj",
+        "projectPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\obj\\",
+        "outputPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,3 +10,15 @@ D:\Jayaram\Personal\Practice Project\MVC\MVC.Models\obj\Debug\net8.0\MVC.Models.
 D:\Jayaram\Personal\Practice Project\MVC\MVC.Models\obj\Debug\net8.0\refint\MVC.Models.dll
 D:\Jayaram\Personal\Practice Project\MVC\MVC.Models\obj\Debug\net8.0\MVC.Models.pdb
 D:\Jayaram\Personal\Practice Project\MVC\MVC.Models\obj\Debug\net8.0\ref\MVC.Models.dll
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\bin\Debug\net8.0\MVC.Models.deps.json
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\bin\Debug\net8.0\MVC.Models.dll
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\bin\Debug\net8.0\MVC.Models.pdb
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.AssemblyInfoInputs.cache
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.AssemblyInfo.cs
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.csproj.CoreCompileInputs.cache
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.sourcelink.json
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.dll
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\refint\MVC.Models.dll
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\MVC.Models.pdb
+D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Models\obj\Debug\net8.0\ref\MVC.Models.dll

@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\",
+  "WorkspaceRootPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9BFFA7D-7147-49CA-A350-302BB968D1EA}|..\\MVC.Test\\MVC.Test.csproj|d:\\jayaram\\personal\\practice project\\mvc_git\\mvc.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_git\\mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9BFFA7D-7147-49CA-A350-302BB968D1EA}|..\\MVC.Test\\MVC.Test.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc.test\\mvc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_git\\mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_git\\mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,47 +54,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\MVC.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Test\\UnitTest1.cs",
-              "RelativeToolTip": "..\\MVC.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T09:08:20.559Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T09:25:31.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T06:43:41.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
-              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T06:43:06.607Z"
+              "Title": "MVC",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC.csproj",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T09:24:33.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MVC.Test",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
+              "RelativeDocumentMoniker": "..\\MVC.Test\\MVC.Test.csproj",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
+              "RelativeToolTip": "..\\MVC.Test\\MVC.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T09:24:28.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T06:43:41.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T06:43:06.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

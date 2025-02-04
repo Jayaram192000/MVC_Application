@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Utilities\\MVC.Utilities.csproj": {}
+    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Utilities\\MVC.Utilities.csproj": {}
   },
   "projects": {
-    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Utilities\\MVC.Utilities.csproj": {
+    "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Utilities\\MVC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Utilities\\MVC.Utilities.csproj",
+        "projectUniqueName": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Utilities\\MVC.Utilities.csproj",
         "projectName": "MVC.Utilities",
-        "projectPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Utilities\\MVC.Utilities.csproj",
+        "projectPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Utilities\\MVC.Utilities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Git\\MVC.Utilities\\obj\\",
+        "outputPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

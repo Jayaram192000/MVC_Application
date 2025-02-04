@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC.Utilities
-build_property.ProjectDir = D:\Jayaram\Personal\Practice Project\MVC_Git\MVC.Utilities\
+build_property.ProjectDir = D:\Jayaram\Personal\Practice Project\MVC_Application\MVC.Utilities\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
