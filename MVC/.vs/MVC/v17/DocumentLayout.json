@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\appsettingsproduction.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:appsettingsproduction.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 88,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,20 +65,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettingsProduction.json",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\appsettingsProduction.json",
+              "RelativeDocumentMoniker": "appsettingsProduction.json",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\appsettingsProduction.json",
+              "RelativeToolTip": "appsettingsProduction.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T12:06:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T11:43:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T09:25:31.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MVC.csproj",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
               "RelativeDocumentMoniker": "MVC.csproj",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MVC.Test.csproj",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
               "RelativeDocumentMoniker": "..\\MVC.Test\\MVC.Test.csproj",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -106,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -118,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
