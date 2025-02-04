@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB9BAD-1993-47E6-80BB-F09006C613A7}|MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9BFFA7D-7147-49CA-A350-302BB968D1EA}|..\\MVC.Test\\MVC.Test.csproj|d:\\jayaram\\personal\\practice project\\mvc_application\\mvc.test\\mvc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -29,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 88,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,7 +53,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T09:25:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MVC",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
               "RelativeDocumentMoniker": "MVC.csproj",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MVC.Test",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
               "RelativeDocumentMoniker": "..\\MVC.Test\\MVC.Test.csproj",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -101,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",

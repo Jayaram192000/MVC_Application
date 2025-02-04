@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 88,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,6 +52,10 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
@@ -59,7 +63,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T09:25:31.02Z",
               "EditorCaption": ""
@@ -67,28 +71,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MVC",
+              "Title": "MVC.csproj",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
               "RelativeDocumentMoniker": "MVC.csproj",
               "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC\\MVC.csproj",
               "RelativeToolTip": "MVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T09:24:33.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T09:24:33.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MVC.Test",
+              "Title": "MVC.Test.csproj",
               "DocumentMoniker": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
               "RelativeDocumentMoniker": "..\\MVC.Test\\MVC.Test.csproj",
               "ToolTip": "D:\\Jayaram\\Personal\\Practice Project\\MVC_Application\\MVC.Test\\MVC.Test.csproj",
               "RelativeToolTip": "..\\MVC.Test\\MVC.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T09:24:28.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T09:24:28.535Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T06:43:41.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:43:41.815Z"
             },
             {
               "$type": "Document",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T06:43:06.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:43:06.607Z"
             },
             {
               "$type": "Document",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:39:36.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:39:36.106Z"
             }
           ]
         }
