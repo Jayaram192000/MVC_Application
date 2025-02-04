@@ -1,0 +1,32 @@
+﻿@model Category
+
+@Html.AntiForgeryToken()
+<form method="post" asp-controller="Category" asp-action="Delete">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Delete Category</h2>
+            <hr />
+
+        </div>
+
+        <div class="mb-3 row p-1">
+            <label asp-for="fldName" class="p-0"></label>
+            <input asp-for="fldName" class="form-control" />
+            @*  <span asp-validation-for="fldName" class="text-danger"></span> *@
+            @* For individual validation  *@
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="fldDisplayOrder" class="p-0"></label>
+            <input asp-for="fldDisplayOrder" class="form-control" />
+            @* <span asp-validation-for="fldDisplayOrder" class="text-danger"></span> *@@* For individual validation  *@
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-danger form-control">Delete</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Category" asp-action="Index" class="btn btn-secondary form-control">Back</a>
+            </div>
+        </div>
+    </div>
+</form>

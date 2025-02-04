@@ -1,0 +1,12 @@
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\bin\Debug\net8.0\MVC.Utilities.deps.json
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\bin\Debug\net8.0\MVC.Utilities.dll
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\bin\Debug\net8.0\MVC.Utilities.pdb
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.AssemblyInfoInputs.cache
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.AssemblyInfo.cs
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.csproj.CoreCompileInputs.cache
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.sourcelink.json
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.dll
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\refint\MVC.Utilities.dll
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\MVC.Utilities.pdb
+D:\Jayaram\Personal\Practice Project\MVC\MVC.Utilities\obj\Debug\net8.0\ref\MVC.Utilities.dll
